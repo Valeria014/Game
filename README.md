@@ -13,7 +13,7 @@ Run:
 pip install pygame
 ```
 ```
-git clone https://github.com/Valeria014/Game
+git clone https://github.com/Valeria014/game
 ```
 
 cd into the folder it is downloaded and run
